@@ -1,0 +1,19 @@
+Theo TechCrunch thì con AI Clawdbot đang viral dữ dội trên mạng, con này khá đặt biệt và TechCrunch tóm tắt như sau:
+1. Moltbot là trợ lý AI cá nhân “thực sự làm việc” — có thể quản lý lịch, gửi tin nhắn, check-in chuyến bay… như một trợ lý con người. Đây là yếu tố gây bùng nổ lan truyền gần đây trên mạng.
+2. Trước đây nó có tên là Clawdbot
+Ban đầu gọi là Clawdbot với biểu tượng tôm hùm (lobster); sau đó phải đổi tên vì tranh chấp nhãn hiệu với Anthropic — công ty sở hữu thương hiệu Claude.
+3. Cách hoạt động
+Moltbot tích hợp vào các ứng dụng nhắn tin (WhatsApp, Telegram, Slack, iMessage…) và tương tác trực tiếp để thực hiện các nhiệm vụ.
+4. Thu hút đông người dùng nhanh
+Sự phổ biến đến nhanh chóng khiến dự án nhận hàng chục nghìn sao trên GitHub trong thời gian ngắn, thu hút cả cộng đồng DEV AI.
+5. Lợi ích tiềm năng
+Moltbot thể hiện tầm nhìn mới cho trợ lý AI: tự động thực hiện hành động (không chỉ trả lời) và hoạt động 24/7 ngay trên thiết bị người dùng.
+6. Những cảnh báo bảo mật
+Bởi vì Moltbot có thể truy cập sâu vào hệ thống, các chuyên gia cảnh báo về rủi ro prompt injection hoặc lạm dụng quyền truy cập nếu dùng không cẩn thận.
+7. Cách sử dụng hiện tại
+Đòi hỏi kỹ năng kỹ thuật cao và thường chạy trên máy riêng biệt (không phải máy chính), vì nếu lẫn tài khoản, mật khẩu… có thể gây rủi ro.
+8. Phản ứng trong cộng đồng
+Một số người hào hứng coi Moltbot là bước tiến cho AI thực sự hữu ích, trong khi người khác lo ngại về bảo mật & quyền riêng tư.
+9. Tác động đến thị trường
+Cơn sốt Moltbot thậm chí tác động đến thị trường tài chính: cổ phiếu một số công ty hạ tầng AI/edge computing tăng mạnh vì người ta kỳ vọng hạ tầng mới hỗ trợ loại AI này.
+Moltbot là cột mốc cho AI agent cá nhân nhưng vẫn đầy thách thức, đặc biệt về bảo mật và quyền kiểm soát dữ liệu, và chưa phù hợp cho người dùng phổ thông ngay lúc này.

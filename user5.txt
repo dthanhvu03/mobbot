@@ -1,0 +1,9 @@
+Có bạn hỏi chưa biết ứng dụng ClawdBot vào những việc gì, trúng cái câu mình cũng tự hỏi con bot của mình nên mình screenshot nhanh chia sẻ lên đây luôn 😃
+Anh em có thể vào link Showcase (để dưới cmt) để tự đọc
+...
+Hoặc ra lệnh cho nó:
+Cào thông tin trên trang showcase
+Tổng hợp vào thành file show-case-lib.md
+Mỗi lần tao xin "case study Clawdbot mới" thì cứ thế mà gửi.
+Cái nào gửi rồi thì đánh đấy đã share nhe bé.
+Nó sẽ tự plan và làm mấy file markdown lưu trên máy Host Clawd cho anh em, tất cả nó lưu trong folder clawd_data á.

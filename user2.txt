@@ -1,0 +1,28 @@
+⚠️ CẢNH BÁO BẢO MẬT: ĐỪNG CHẠY CLAWDBOT / MOLTBOT NẾU BẠN QUAN TÂM TỚI DỮ LIỆU CÁ NHÂN
+Bé vừa check thử trên Shodan với từ khóa clawdbot.
+=> Hơn 1.000 kết quả IP public đang expose Clawdbot ra Internet.
+Phần lớn chạy trên VPS (Hetzner, DigitalOcean, OVH…), cũng như trên thiết bị cá nhân, mở port gateway, nhận diện service rõ ràng.
+⸻
+❌ Clawdbot đang cực kỳ nguy hiểm về mặt bảo mật
+• Credential (email, social, Spotify, smart-home, thậm chí password manager)
+👉 lưu plaintext, dạng .txt
+• Không encryption
+• Không key management
+• Không threat model
+• Không phân quyền
+• Không audit log
+Chỉ cần chạy câu lệnh "Grep"
+=> grep -r "password"
+là ra toàn bộ thông tin nhạy cảm.
+Tác giả Clawdbot / Moltbot đang “vibe coding”, không phải dân kĩ thuật.
+Nhìn kiến trúc là thấy rõ:
+• Không có security parameter ngay từ đầu
+• Không có khái niệm credential isolation
+• Không hiểu basic operational security
+Đây là thằng khốn nạn lấy demo code đem quăng thẳng lên production.
+Chỉ cần một attacker không quá giỏi, không cần zero-day, cũng đủ để:
+• Thu thập credential
+• Pivot sang email / social / smart-home
+• Leo thang thiệt hại
+P/S: tác giả của Clawdbot/ MoltBot đã công bố sẵn là dự án này vibe-coding. Vibe-coding nó tốt cho người có kinh nghiệm về kĩ thuật, khoa học máy tính. 
+Nhưng vibe-coding + AI + thiếu kiến thức kĩ thuật = thảm họa.

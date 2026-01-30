@@ -1,0 +1,14 @@
+CẢNH BÁO: Đừng cài Clawdbot (Moltbot) nếu bạn chưa biết điều này.
+Clawdbot (hay Moltbot) đang tạo nên một cơn sốt lớn nhờ khả năng trở thành một Agentic AI (nó không chỉ nói mà còn thực sự thực thi lệnh trên máy tính của bạn)
+✅Ứng dụng:
+> Quản lý hệ thống và tập tin (Sắp xếp dữ liệu, Kiểm tra hệ thống, Thực thi code)
+> Trợ lý cá nhân chủ động (Tóm tắt đầu ngày, Theo dõi biến động, Check-in chuyến bay)
+> Clawdbot biến Telegram, WhatsApp, Discord hay thậm chí là Slack thành một cái remote điều khiển máy tính
+> Tự động hóa trình duyệt (Điền form, Thu thập dữ liệu)
+> Khả năng tự học kỹ năng mới
+‼️Rủi ro đi kèm:
+> Cấp quyền Admin cho Bot đồng nghĩa với việc nếu Bot bị hack, hacker có toàn quyền xóa sạch dữ liệu hoặc cài mã độc vào máy bạn.
+> Moltbot có một cơ chế mặc định là tin tưởng hoàn toàn các kết nối từ localhost (dễ lộ API Key và các Token Telegram/Discord và lịch sử chat nhạy cảm có thể bị đánh cắp)
+> Moltbot có khả năng đọc email, tài liệu và lướt web hộ bạn (Chỉ cần Bot đọc phải một email bẩn chứa lệnh ẩn, nó có thể tự động gửi dữ liệu nhạy cảm của bạn ra ngoài mà bạn không hề hay biết)
+> Moltbot sử dụng cơ sở dữ liệu vector để nhớ mọi thứ bạn từng nói hoặc làm (Nếu bot bị hack hoặc bạn vô tình chia sẻ quyền truy cập, kẻ tấn công không chỉ xem được phiên làm việc hiện tại mà có thể lục lại toàn bộ lịch sử hoạt động của bạn trong nhiều tháng qua)
+Đừng dùng Moltbot nếu bạn không thể kiểm soát hệ thống của mình. Công cụ này chỉ dành cho những ai biết cách sử dụng AI trong môi trường an toàn (chỉ nên test trên máy ảo hoặc VPS riêng), xác định rõ mục tiêu sử dụng và sẵn sàng can thiệp kỹ thuật liên tục để duy trì sự ổn định.
