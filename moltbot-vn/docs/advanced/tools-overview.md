@@ -636,7 +636,7 @@ moltbot security audit --deep
 - [Exec Security Deep Dive](/docs/advanced/exec-security)
 - [Browser Automation Guide](/docs/advanced/browser)
 - [Cron & Scheduling](/docs/advanced/cron)
-- [Custom Tool Development](/docs/plugins/custom-tools)
+- [Custom Tool Development (Đang cập nhật)](#)
 
 ---
 

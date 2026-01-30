@@ -637,8 +637,8 @@ exec("dd if=/dev/zero of=/tmp/fill")  // Disk fill
 ## Next Steps
 
 - [Tools Overview](/docs/advanced/tools-overview)
-- [Sandbox Configuration](/docs/advanced/sandbox)
-- [Multi-Agent Security](/docs/advanced/multi-agent-security)
+- [Sandbox Configuration](/docs/gateway/sandboxing)
+- [Multi-Agent Security](/docs/concepts/multi-agent)
 
 ---
 

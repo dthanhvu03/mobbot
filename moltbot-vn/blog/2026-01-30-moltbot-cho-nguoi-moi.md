@@ -156,7 +156,7 @@ Nếu bất kỳ câu nào "Không":
 
 1. Đọc [Security Alerts](/security) - **BẮT BUỘC**
 2. Xem [Use Cases thực tế](/showcase) để lấy ý tưởng
-3. Follow [Installation Guide](/docs/installation/docker)
+3. Follow [Installation Guide](/docs/deployment/docker)
 4. Join [Discord](https://discord.gg/moltbot-vn) để hỏi đáp
 
 ---

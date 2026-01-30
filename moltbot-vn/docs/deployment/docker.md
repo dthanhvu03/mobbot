@@ -609,7 +609,7 @@ docker compose up -d
 
 - [Docker Docs](https://docs.docker.com)
 - [Docker Compose Reference](https://docs.docker.com/compose/compose-file/)
-- [Production Deployment](/docs/installation/production)
+- [Production Deployment](/docs/deployment/production)
 
 ---
 

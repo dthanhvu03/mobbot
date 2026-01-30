@@ -410,10 +410,10 @@ Token sai hoặc bot bị delete.
 
 ### Tiếp theo:
 
-1. **Add WhatsApp:** [WhatsApp Integration Guide](/docs/installation/whatsapp)
-2. **Automation:** [Setup Cron Jobs](/docs/advanced/automation)
-3. **Plugins:** [Gmail Integration](/docs/advanced/plugins)
-4. **Deploy:** [Production Setup](/docs/installation/production)
+1. **Add WhatsApp:** [Channels Overview](/docs/channels/overview)
+2. **Automation:** [Tính năng nâng cao](/docs/advanced/tools-overview)
+3. **Plugins:** [Cấu hình Gateway](/docs/gateway/configuration)
+4. **Deploy:** [Production Setup](/docs/deployment/production)
 
 ### Join community:
 

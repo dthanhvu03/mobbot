@@ -410,6 +410,6 @@ sudo apt-get install -y fail2ban
 
 ## Tài liệu tham khảo
 
-- [Docker Installation](/docs/installation/docker)
+- [Docker Installation](/docs/deployment/docker)
 - [Nginx Documentation](https://nginx.org/en/docs/)
 - [PM2 Documentation](https://pm2.keymetrics.io/docs/)

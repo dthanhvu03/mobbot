@@ -288,5 +288,5 @@ Chia tách công việc rõ ràng với các "Nhân cách" (Personas) khác nhau
 | **Chi phí API** | 💰 Pay-as-you-go | 💰 $20/mo | 💰 $20/mo |
 
 :::info[Next Steps]
-Sẵn sàng trải nghiệm? 👉 [**Cài đặt ngay**](/docs/getting-started/quick-start) hoặc xem [**Advanced Automation**](/docs/advanced/automation).
+Sẵn sàng trải nghiệm? 👉 [**Cài đặt ngay**](/docs/getting-started/quick-start) hoặc xem [**Tính năng nâng cao**](/docs/advanced/tools-overview).
 :::
