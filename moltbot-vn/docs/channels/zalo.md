@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 title: 🔵 Tích hợp Zalo (Cá nhân & OA)
+sidebar_label: 🔵 Zalo (Cá nhân & OA)
 description: Hướng dẫn kết nối Moltbot với Zalo để tạo Chatbot AI tự động. Hỗ trợ cả Zalo cá nhân (via QR Code) và Zalo Official Account (OA).
 keywords: [tạo bot zalo, chatbot zalo ai, tích hợp ai vào zalo, moltbot zalo guide, zalo oa chatbot ai, tự động hóa zalo]
 ---

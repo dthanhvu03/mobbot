@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
 title: 📬 Tích hợp Telegram Bot
+sidebar_label: 📬 Telegram Bot
 description: Hướng dẫn chi tiết cách kết nối Moltbot với Telegram. Từ việc lấy Token từ BotFather đến cấu hình bảo mật đa người dùng và tích hợp AI Agent vào nhóm Telegram.
 keywords: [tạo bot telegram, tích hợp ai telegram, chatbot telegram ai, hướng dẫn moltbot telegram, telegram bot api việt nam]
 ---
