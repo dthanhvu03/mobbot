@@ -40,6 +40,7 @@ const sidebars = {
       label: 'Channels',
       items: [
         'channels/overview',
+        'channels/telegram',
         'channels/zalo',
       ],
     },
