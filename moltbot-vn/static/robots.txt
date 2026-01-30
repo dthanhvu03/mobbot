@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://moltbot.vn/sitemap.xml
+Sitemap: https://mobbot.vercel.app/sitemap.xml

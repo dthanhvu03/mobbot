@@ -1,8 +1,9 @@
 ---
 sidebar_position: 1
-title: Tích hợp Telegram, Zalo, Discord
-description: Hướng dẫn kết nối Moltbot với 20+ nền tảng chat phổ biến. Telegram, Zalo (Vietnam), Discord, WhatsApp và Slack. Quản lý bot từ bất kỳ đâu.
-keywords: [moltbot channels, telegram bot setup, zalo bot api, kết nối discord, chatops ai]
+title: Tích hợp Đa kênh (Telegram, Zalo, Discord) | Channels Guide
+description: Kết nối Moltbot với 20+ nền tảng chat phổ biến nhất. Hướng dẫn chi tiết setup Telegram Bot, Zalo OA (Zalo cá nhân), Discord, WhatsApp và Slack. Quản lý AI Agent từ bất kỳ đâu.
+keywords: [moltbot channels, telegram bot setup, zalo bot api, hướng dẫn tạo bot zalo, kết nối discord, chatops ai, whatsapp automation, auto reply bot, ai agent đa kênh]
+image: https://mobbot.vercel.app/img/docusaurus-social-card.jpg
 ---
 
 # Channels Overview - 20+ Platforms

@@ -11,7 +11,7 @@ const config = {
     favicon: 'img/favicon.ico',
 
     // Set the production url of your site here
-    url: 'https://moltbot.vn',
+    url: 'https://mobbot.vercel.app',
     // Update khi deploy
     // Set the /<baseUrl>/ pathname under which your site is served
     // For GitHub pages deployment, it is often '/<projectName>/'
@@ -19,8 +19,8 @@ const config = {
 
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
-    organizationName: 'moltbot', // Update với GitHub org thực tế
-    projectName: 'moltbot-vn', // Update với repo name
+    organizationName: 'dthanhvu03', // Update với GitHub org thực tế
+    projectName: 'mobbot', // Update với repo name
 
     onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
@@ -39,15 +39,15 @@ const config = {
                 {
                     docs: {
                         sidebarPath: require.resolve('./sidebars.js'),
-                        editUrl: 'https://github.com/moltbot-vn/moltbot-vn/tree/main/'
+                        editUrl: 'https://github.com/dthanhvu03/mobbot/tree/main/'
                     },
                     blog: {
                         showReadingTime: true,
-                        editUrl: 'https://github.com/moltbot-vn/moltbot-vn/tree/main/'
+                        editUrl: 'https://github.com/dthanhvu03/mobbot/tree/main/'
                     },
                     sitemap: {
-                        changefreq: 'weekly',
-                        priority: 0.5,
+                        changefreq: 'daily',
+                        priority: 0.7,
                         ignorePatterns: ['/tags/**'],
                         filename: 'sitemap.xml',
                     },
@@ -65,8 +65,11 @@ const config = {
         { // Replace with your project's social card
             image: 'img/docusaurus-social-card.jpg',
             metadata: [
-                {name: 'keywords', content: 'moltbot, clawdbot, ai agent, self-hosted, automation, chatbot, trợ lý ảo, tiếng việt, hướng dẫn cài đặt'},
+                {name: 'keywords', content: 'moltbot, clawdbot, ai agent, self-hosted, automation, chatbot, trợ lý ảo, tiếng việt, hướng dẫn cài đặt, tích hợp zalo, telegram bot, discord bot, whatsapp automation'},
                 {name: 'twitter:card', content: 'summary_large_image'},
+                {name: 'og:site_name', content: 'Moltbot VN'},
+                {name: 'og:type', content: 'website'},
+                {name: 'og:locale', content: 'vi_VN'},
             ],
             navbar: {
                 title: 'Moltbot VN',
