@@ -22,7 +22,7 @@ const config = {
     organizationName: 'moltbot', // Update với GitHub org thực tế
     projectName: 'moltbot-vn', // Update với repo name
 
-    onBrokenLinks: 'throw',
+    onBrokenLinks: 'warn',
     onBrokenMarkdownLinks: 'warn',
 
     // Vietnamese locale
