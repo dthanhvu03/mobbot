@@ -70,6 +70,7 @@ const config = {
                 {name: 'og:site_name', content: 'Moltbot VN'},
                 {name: 'og:type', content: 'website'},
                 {name: 'og:locale', content: 'vi_VN'},
+                {name: 'google-site-verification', content: 'EGErfvV2eGeCa1mSauaUh5GMHlp7XI5MarTjD_-5idI'},
             ],
             navbar: {
                 title: 'Moltbot VN',
