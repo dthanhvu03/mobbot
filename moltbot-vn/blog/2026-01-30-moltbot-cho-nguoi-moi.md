@@ -1,8 +1,10 @@
 ---
 slug: moltbot-cho-nguoi-moi
-title: Moltbot cho người mới - 5 điều cần biết
+title: Moltbot cho người mới - 5 điều cần biết trước khi bắt đầu
 authors: [moltbot-vn]
 tags: [beginner, getting-started, security]
+description: 5 điều quan trọng nhất mà người mới cần biết trước khi sử dụng Moltbot. Chi phí thực tế, learning curve, và những rủi ro cần tránh.
+keywords: [moltbot hướng dẫn, ai agent cho người mới, moltbot có an toàn không, chi phí moltbot]
 ---
 
 # Moltbot cho người mới: 5 điều cần biết

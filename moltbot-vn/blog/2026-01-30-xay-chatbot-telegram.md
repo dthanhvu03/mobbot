@@ -1,8 +1,10 @@
 ---
 slug: xay-chatbot-telegram-30-phut
-title: Xây dựng Chatbot Telegram với Moltbot trong 30 phút
+title: Xây dựng Chatbot Telegram với AI trong 30 phút | Hướng dẫn chi tiết
 authors: [moltbot-vn]
 tags: [tutorial, telegram, beginner]
+description: Hướng dẫn từng bước tạo Bot Telegram kết nối với AI (Claude/GPT) chỉ trong 30 phút. Từ lấy Token BotFather đến kết nối với Moltbot.
+keywords: [tạo bot telegram ai, chatbot telegram claude, hướng dẫn telegram bot, moltbot telegram setup]
 ---
 
 # Xây dựng Chatbot Telegram với Moltbot trong 30 phút
