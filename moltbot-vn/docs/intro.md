@@ -161,33 +161,41 @@ Bạn đã sẵn sàng? Hãy làm theo các bước sau:
 <summary><b>Moltbot có miễn phí không?</b></summary>
 
 **Moltbot là open-source và miễn phí.** Tuy nhiên, bạn cần trả phí API cho nhà cung cấp AI (Anthropic Claude hoặc OpenAI GPT). Chi phí thường khoảng $10-50/tháng tùy mức độ sử dụng.
+
 </details>
 
 <details>
 <summary><b>Moltbot khác gì với Auto-GPT, AgentGPT?</b></summary>
 
-- **Auto-GPT/AgentGPT**: Chạy task một lần, không có bộ nhớ dài hạn, không kết nối chat app
-- **Moltbot**: Chạy liên tục như daemon, có bộ nhớ Vector DB, kết nối native với Telegram/Zalo
+**Auto-GPT/AgentGPT**: Chạy task một lần, không có bộ nhớ dài hạn, không kết nối chat app.
+
+**Moltbot**: Chạy liên tục như daemon, có bộ nhớ Vector DB, kết nối native với Telegram/Zalo.
+
 </details>
 
 <details>
 <summary><b>Tôi cần máy tính cấu hình như thế nào?</b></summary>
 
-- **Tối thiểu**: 2GB RAM, 1 CPU core
-- **Khuyến nghị**: 4GB RAM, 2 CPU cores
-- Không cần GPU vì AI inference chạy trên cloud (API)
+**Tối thiểu**: 2GB RAM, 1 CPU core.
+
+**Khuyến nghị**: 4GB RAM, 2 CPU cores.
+
+Không cần GPU vì AI inference chạy trên cloud (API).
+
 </details>
 
 <details>
 <summary><b>Có thể chạy Moltbot trên VPS giá rẻ?</b></summary>
 
 Hoàn toàn có thể! VPS $5-6/tháng (DigitalOcean, Vultr, Hetzner) là đủ. Xem [hướng dẫn deploy lên VPS](/docs/deployment/production).
+
 </details>
 
 <details>
 <summary><b>Moltbot có hỗ trợ tiếng Việt không?</b></summary>
 
 Moltbot sử dụng Claude/GPT làm "bộ não", nên khả năng hiểu và viết tiếng Việt cực kỳ tự nhiên. Website tài liệu này cũng hoàn toàn bằng tiếng Việt.
+
 </details>
 
 ---
