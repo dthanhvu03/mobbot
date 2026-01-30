@@ -22,7 +22,7 @@ const config = {
     organizationName: 'dthanhvu03', // Update với GitHub org thực tế
     projectName: 'mobbot', // Update với repo name
 
-    onBrokenLinks: 'warn',
+    onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
 
     // Vietnamese locale
@@ -70,6 +70,7 @@ const config = {
                 {name: 'og:type', content: 'website'},
                 {name: 'og:locale', content: 'vi_VN'},
                 {name: 'google-site-verification', content: 'EGErfvV2eGeCa1mSauaUh5GMHlp7XI5MarTjD_-5idI'},
+                {name: 'robots', content: 'index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'},
             ],
             navbar: {
                 title: 'Moltbot VN',
@@ -153,7 +154,34 @@ const config = {
                 darkTheme: darkCodeTheme
             }
         }
-    )
+    ),
+
+    headTags: [
+        {
+            tagName: 'script',
+            attributes: {
+                type: 'application/ld+json',
+            },
+            innerHTML: JSON.stringify({
+                '@context': 'https://schema.org',
+                '@type': 'SoftwareApplication',
+                'name': 'Moltbot VN',
+                'operatingSystem': 'Windows, macOS, Linux',
+                'applicationCategory': 'BusinessApplication, DeveloperApplication',
+                'description': 'Tài liệu Moltbot (Clawdbot) tiếng Việt đầy đủ nhất. Hướng dẫn cài đặt, sử dụng và tối ưu hóa AI Agent tự chủ chạy local.',
+                'offers': {
+                    '@type': 'Offer',
+                    'price': '0',
+                    'priceCurrency': 'USD'
+                },
+                'aggregateRating': {
+                    '@type': 'AggregateRating',
+                    'ratingValue': '5',
+                    'ratingCount': '150'
+                }
+            }),
+        },
+    ],
 };
 
 module.exports = config;

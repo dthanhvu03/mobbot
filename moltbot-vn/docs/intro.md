@@ -71,7 +71,7 @@ import Admonition from '@theme/Admonition';
 Bạn đã sẵn sàng sở hữu một trợ lý AI thực thụ? Hãy làm theo các bước sau:
 
 1.  **Chuẩn bị**: Xem [Yêu cầu hệ thống](/docs/getting-started/requirements) (Node.js v22+).
-2.  **Cài đặt**: Chọn phương án [Docker](/docs/installation/docker) (Nhanh & An toàn) hoặc [NPM](/docs/deployment/production) (Full control).
+2.  **Cài đặt**: Chọn phương án [Docker](/docs/deployment/docker) (Nhanh & An toàn) hoặc [Cài đặt thủ công](/docs/deployment/production) (Full control).
 3.  **Khởi chạy**: Xem hướng dẫn [Quick Start](/docs/getting-started/quick-start) để có Bot đầu tiên sau 5 phút.
 
 ---

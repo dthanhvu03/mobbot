@@ -281,8 +281,8 @@ Mở browser và truy cập: `http://localhost:18789/dashboard`
 🎉 **Chúc mừng!** Bạn đã có Moltbot chạy được rồi!
 
 ### Tiếp theo nên làm:
-1. **Đọc [Core Concepts](/docs/core-concepts/architecture)** - Hiểu cách Moltbot hoạt động
-2. **Setup [Advanced Features](/docs/advanced/plugins)** - Plugins, hooks, automation
+1. **Đọc [Kiến trúc Moltbot](/docs/concepts/architecture)** - Hiểu cách Moltbot hoạt động
+2. **Setup [Tính năng nâng cao](/docs/advanced/tools-overview)** - Plugins, hooks, automation
 3. **Xem [Use Cases](/showcase)** - Học từ cộng đồng
 4. **Bảo mật:** Đọc kỹ [Security Best Practices](/docs/security/best-practices)
 

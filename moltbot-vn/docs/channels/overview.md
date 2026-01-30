@@ -121,7 +121,7 @@ moltbot channels login zalouser
 npm install -g @moltbot-ext/channel-msteams
 ```
 
-**Setup:** Follow [Teams Guide](/docs/channels/teams)
+**Setup:** Xem [Teams Guide (Đang cập nhật)](#)
 
 #### LINE
 
@@ -130,7 +130,7 @@ npm install -g @moltbot-ext/channel-msteams
 npm install -g @moltbot-ext/channel-line
 ```
 
-**Setup:** Follow [LINE Guide](/docs/channels/line)
+**Setup:** Xem [LINE Guide (Đang cập nhật)](#)
 
 #### Matrix
 
@@ -139,7 +139,7 @@ npm install -g @moltbot-ext/channel-line
 npm install -g @moltbot-ext/channel-matrix
 ```
 
-**Setup:** Follow [Matrix Guide](/docs/channels/matrix)
+**Setup:** Xem [Matrix Guide (Đang cập nhật)](#)
 
 ---
 
@@ -291,9 +291,9 @@ moltbot channels login <platform>
 
 ## Resources
 
-- [Security Best Practices](/docs/security/pairing-model)
-- [Multi-Agent Routing](/docs/advanced/multi-agent)
-- [Troubleshooting Guide](/docs/troubleshooting)
+- [Security Best Practices](/docs/security/best-practices)
+- [Multi-Agent Routing](/docs/concepts/multi-agent)
+- [Hướng dẫn sửa lỗi](/docs/troubleshooting/common-errors)
 
 ---
 
