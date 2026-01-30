@@ -103,15 +103,19 @@ Nhiều người hỏi: *"Tại sao không dùng ChatGPT hay Claude trên web ch
 ## ⚠️ Cảnh Báo Bảo Mật Quan Trọng
 
 <Admonition type="danger" title="⚠️ DÀNH CHO NGƯỜI DÙNG KỸ THUẬT">
+
 Moltbot là một công cụ mạnh mẽ với khả năng truy cập hệ thống sâu. **KHÔNG** nên dùng nếu bạn:
+
 - Hoàn toàn mới với command line / terminal
 - Không có thời gian để học và cấu hình
 - Muốn giải pháp "cài là chạy" ngay lập tức
 
 **KHUYẾN NGHỊ:**
+
 - 🐳 Chạy trong [Docker](/docs/deployment/docker) hoặc VPS riêng
 - 🔒 Cấu hình [Allowlist](/docs/advanced/exec-security) cho các lệnh được phép
 - 👁️ Luôn review các lệnh Bot đề xuất trước khi approve
+
 </Admonition>
 
 Đọc thêm: [Best Practices Bảo mật](/docs/security/best-practices)

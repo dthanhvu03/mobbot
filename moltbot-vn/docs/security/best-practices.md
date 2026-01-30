@@ -1,5 +1,6 @@
 ---
-title: Security Best Practices
+title: Security Best Practices - Bảo mật AI Agent | Moltbot
+sidebar_label: 🛡️ Best Practices
 description: Hướng dẫn bảo mật AI Agent chạy local. Cách sử dụng Sandbox, bảo vệ API Key và ngăn chặn Remote Code Execution (RCE) trên Moltbot.
 keywords: [bảo mật ai agent, moltbot security, sandbox configuration, api key safety, prevent rce]
 sidebar_position: 1

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 2
-title: Yêu cầu hệ thống (System Req)
+sidebar_label: 📋 Yêu cầu hệ thống
+title: Yêu cầu hệ thống - Node.js, RAM, API Keys | Moltbot
 description: Cấu hình phần cứng và phần mềm yêu cầu để chạy Moltbot. Node.js v22+, Docker, RAM tối thiểu và các API Keys cần thiết (Claude, Brave).
 keywords: [moltbot requirements, cấu hình tối thiểu, nodejs 22, api keys setup, vps requirements]
 ---

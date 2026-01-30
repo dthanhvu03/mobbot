@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
-title: Bắt đầu nhanh (5 phút)
+sidebar_label: 🚀 Quick Start
+title: Bắt đầu nhanh (5 phút) - Cài đặt Moltbot từ A-Z
 description: Hướng dẫn cài đặt Moltbot (Clawdbot) chỉ trong 5 phút. Hỗ trợ Windows (WSL2), macOS và Linux. Tự động hóa AI Agent đầu tiên của bạn ngay hôm nay.
 keywords: [cài đặt moltbot, hướng dẫn sử dụng moltbot, moltbot quick start, setup ai agent]
 ---

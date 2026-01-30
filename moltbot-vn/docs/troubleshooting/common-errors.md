@@ -1,5 +1,6 @@
 ---
-title: Khắc phục lỗi thường gặp
+title: Khắc phục lỗi thường gặp - Troubleshooting Moltbot
+sidebar_label: 🔧 Lỗi thường gặp
 description: Tổng hợp các lỗi phổ biến khi cài đặt và sử dụng Moltbot (Clawdbot) và cách khắc phục triệt để. Permission denied, Port in use, Node version error.
 keywords: [lỗi moltbot, troubleshooting moltbot, permission denied, eaddrinuse 18789, nodejs error]
 sidebar_position: 1
