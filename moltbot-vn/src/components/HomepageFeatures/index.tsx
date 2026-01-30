@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '🤖 AI Agent Tự Chủ',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Không chỉ chat. Moltbot có khả năng <strong>thực hiện hành động</strong>: quản lý file, 
+        chạy script, tìm kiếm web và tự động hóa quy trình làm việc của bạn.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: '🧠 Bộ Nhớ Dài Hạn',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Tích hợp sẵn Vector Database giúp bot <strong>ghi nhớ mọi cuộc hội thoại</strong>. 
+        Bot hiểu ngữ cảnh dự án và thói quen của bạn mà không cần nhắc lại.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: '📱 Đa Kênh Tích Hợp',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Kết nối Telegram, Zalo, Discord, WhatsApp, Slack... 
+        Điều khiển AI Agent của bạn từ <strong>bất kỳ ứng dụng chat nào</strong> bạn thích.
       </>
     ),
   },

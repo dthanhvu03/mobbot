@@ -49,7 +49,6 @@ const config = {
                         changefreq: 'daily',
                         priority: 0.7,
                         ignorePatterns: ['/tags/**'],
-                        filename: 'sitemap.xml',
                     },
                     theme: {
                         customCss: require.resolve('./src/css/custom.css')
