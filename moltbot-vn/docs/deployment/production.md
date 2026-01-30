@@ -1,5 +1,9 @@
 ---
 sidebar_position: 2
+sidebar_label: 🏭 Production
+title: Production Deployment - Triển khai Moltbot lên VPS/Server | Moltbot
+description: Hướng dẫn triển khai Moltbot lên VPS với PM2, Nginx reverse proxy, PostgreSQL. Checklist bảo mật và monitoring cho Production environment.
+keywords: [deploy moltbot vps, pm2 moltbot, nginx ai agent, production setup moltbot, self-hosted ai server]
 ---
 
 import Tabs from '@theme/Tabs';

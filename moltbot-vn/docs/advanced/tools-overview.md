@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
-title: Tổng quan Tools
+sidebar_label: 🧰 Tổng quan Tools
+title: Tổng quan Tools - 20+ Công cụ AI Agent | Moltbot
 description: Danh sách 20+ công cụ tích hợp sẵn trong Moltbot (Core Tools). Từ quản lý file, thực thi lệnh đến tìm kiếm web và xử lý hình ảnh.
 keywords: [moltbot tools, core capabilities, ai agent tools, web search tool, file system tools]
 ---

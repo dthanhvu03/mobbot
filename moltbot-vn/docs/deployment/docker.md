@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
-title: Cài đặt Docker
+sidebar_label: 🐳 Docker
+title: Cài đặt Moltbot bằng Docker - Hướng dẫn chi tiết | Moltbot
 description: Hướng dẫn cài đặt Moltbot (Clawdbot) bằng Docker và Docker Compose. Cách an toàn và nhanh nhất để chạy AI Agent trên server hoặc local machine.
 keywords: [moltbot docker, cài đặt moltbot, docker compose ai agent, self-hosted ai docker]
 ---
